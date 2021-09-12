@@ -1,5 +1,7 @@
 module github.com/Vardan1995/fiber-crud
 
+
+// +heroku goVersion go1.15
 go 1.16
 
 require (
